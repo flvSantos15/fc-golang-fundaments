@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/flvSantos15/fc-go-fundaments/curso-go/math"
+)
 
 func main() {
-	fmt.Println("hello fc")
+	resultado := math.Soma(1, 1)
+	fmt.Println("%v", resultado)
 }
