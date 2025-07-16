@@ -1,3 +1,3 @@
-module github.com/flvSantos15/fc-go-fundaments
+module github.com/flvSantos15/fc-golang-fundaments
 
 go 1.24.4
