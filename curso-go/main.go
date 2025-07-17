@@ -7,6 +7,11 @@ import (
 )
 
 func main() {
+	soma()
+}
+
+func soma() {
 	resultado := math.Soma(1, 2)
 	fmt.Println(resultado)
 }
+
