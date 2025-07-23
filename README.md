@@ -2,7 +2,7 @@
 
 ## 🚀 Purpose
 
-The main goal is to review the fundamentals of Go (Golang) and learn new concepts, such as pointers, structs, functions, go routines, variables, types, packages, errors handling, channels, and more.
+The main goal is to review the fundamentals of Go (Golang) and learn new concepts, such as pointers, structs, functions, go routines, variables, generics, types, packages, errors handling, channels, and more.
 
 ## 🛠️ Tech Stack
 

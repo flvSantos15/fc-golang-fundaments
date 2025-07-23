@@ -1,4 +1,4 @@
-# buildar (preciso estar dentro da pastar qq contem o main.go)
+# buildar (preciso estar dentro da pastar q contem o main.go)
 go build
 
 # pra install esse build
